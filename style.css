@@ -6,7 +6,7 @@
 
 body{
     background-color: hsl(0, 100%, 74%);
-    background-image: url('./images/bg-intro-desktop.png');
+    background-image: url('./bg-intro-desktop.png');
     font-family: 'Poppins', sans-serif;
     color: #fff;
 }
@@ -150,4 +150,8 @@ small a {
     .container{
         flex-direction: column;
     }
+    body{
+    background-color: hsl(0, 100%, 74%);
+    background-image: url('./bg-intro-mobile.png');
+}
 }
